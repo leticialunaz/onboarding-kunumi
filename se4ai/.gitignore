@@ -1,2 +1,15 @@
+# Arquivos de variáveis de ambiente
 .env
+.env.local
+*.env
+
+# Cache e compilação do Python
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
