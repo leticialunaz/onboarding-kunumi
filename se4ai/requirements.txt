@@ -28,6 +28,7 @@ packaging==26.3
 pydantic==2.14.1
 pydantic_core==2.50.1
 PyYAML==6.0.3
+python-dotenv==1.2.4
 regex==2026.9.29
 requests==2.34.2
 requests-toolbelt==1.0.0
